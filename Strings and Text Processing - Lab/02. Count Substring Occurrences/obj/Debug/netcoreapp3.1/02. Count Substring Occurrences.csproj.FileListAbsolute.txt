@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp3.1\02. Count Substring Occurrences.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.genruntimeconfig.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp3.1\02. Count Substring Occurrences.csprojAssemblyReference.cache

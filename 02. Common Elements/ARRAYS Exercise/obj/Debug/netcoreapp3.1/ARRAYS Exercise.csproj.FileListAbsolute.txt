@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\ARRAYS Exercise.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\ARRAYS Exercise.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\ARRAYS Exercise.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\ARRAYS Exercise.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\ARRAYS Exercise.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\ARRAYS Exercise.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\ARRAYS Exercise.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\ARRAYS Exercise.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\ARRAYS Exercise.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\ARRAYS Exercise.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\ARRAYS Exercise.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\ARRAYS Exercise.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\ARRAYS Exercise.genruntimeconfig.cache

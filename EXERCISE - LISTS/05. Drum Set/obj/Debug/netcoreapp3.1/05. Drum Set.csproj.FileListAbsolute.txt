@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\bin\Debug\netcoreapp3.1\05. Drum Set.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\EXERCISE - LISTS\05. Drum Set\obj\Debug\netcoreapp3.1\05. Drum Set.genruntimeconfig.cache

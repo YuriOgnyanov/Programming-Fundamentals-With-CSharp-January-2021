@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\bin\Debug\netcoreapp3.1\MID EXAM.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\bin\Debug\netcoreapp3.1\MID EXAM.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\bin\Debug\netcoreapp3.1\MID EXAM.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\bin\Debug\netcoreapp3.1\MID EXAM.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\bin\Debug\netcoreapp3.1\MID EXAM.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\bin\Debug\netcoreapp3.1\MID EXAM.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\obj\Debug\netcoreapp3.1\MID EXAM.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\obj\Debug\netcoreapp3.1\MID EXAM.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\obj\Debug\netcoreapp3.1\MID EXAM.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\obj\Debug\netcoreapp3.1\MID EXAM.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\obj\Debug\netcoreapp3.1\MID EXAM.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\obj\Debug\netcoreapp3.1\MID EXAM.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\MID EXAM\MID EXAM\obj\Debug\netcoreapp3.1\MID EXAM.genruntimeconfig.cache

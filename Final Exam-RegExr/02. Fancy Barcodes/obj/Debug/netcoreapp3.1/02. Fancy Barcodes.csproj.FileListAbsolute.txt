@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.genruntimeconfig.cache

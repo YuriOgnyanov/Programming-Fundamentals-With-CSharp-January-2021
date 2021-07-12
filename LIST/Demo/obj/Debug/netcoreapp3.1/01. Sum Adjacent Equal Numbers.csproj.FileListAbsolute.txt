@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\LIST\Demo\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\List - MidExam\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.genruntimeconfig.cache

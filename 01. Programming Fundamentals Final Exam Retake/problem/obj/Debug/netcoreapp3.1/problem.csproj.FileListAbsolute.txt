@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\bin\Debug\netcoreapp3.1\problem.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\bin\Debug\netcoreapp3.1\problem.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\bin\Debug\netcoreapp3.1\problem.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\bin\Debug\netcoreapp3.1\problem.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\bin\Debug\netcoreapp3.1\problem.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\bin\Debug\netcoreapp3.1\problem.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\obj\Debug\netcoreapp3.1\problem.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\obj\Debug\netcoreapp3.1\problem.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\obj\Debug\netcoreapp3.1\problem.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\obj\Debug\netcoreapp3.1\problem.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\obj\Debug\netcoreapp3.1\problem.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\obj\Debug\netcoreapp3.1\problem.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\01. Programming Fundamentals Final Exam Retake\problem\obj\Debug\netcoreapp3.1\problem.genruntimeconfig.cache

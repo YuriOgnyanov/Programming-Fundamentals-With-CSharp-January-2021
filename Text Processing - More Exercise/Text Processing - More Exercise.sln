@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Extract Person Information", "01. Extract Person Information\01. Extract Person Information.csproj", "{3A390976-4AC1-4F8D-8449-E560480FE646}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Ascii Sumator", "02. Ascii Sumator\02. Ascii Sumator.csproj", "{9BB975D9-CD1A-4189-8D19-E7D6D0A53877}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Morse Code Translator", "04. Morse Code Translator\04. Morse Code Translator.csproj", "{549619F8-DE5B-4CFF-9E9A-D9F3C9E2DD53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. HTML", "05. HTML\05. HTML.csproj", "{3692C293-2138-42D3-982E-77E42C069321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A390976-4AC1-4F8D-8449-E560480FE646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A390976-4AC1-4F8D-8449-E560480FE646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A390976-4AC1-4F8D-8449-E560480FE646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A390976-4AC1-4F8D-8449-E560480FE646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB975D9-CD1A-4189-8D19-E7D6D0A53877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB975D9-CD1A-4189-8D19-E7D6D0A53877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB975D9-CD1A-4189-8D19-E7D6D0A53877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB975D9-CD1A-4189-8D19-E7D6D0A53877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549619F8-DE5B-4CFF-9E9A-D9F3C9E2DD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549619F8-DE5B-4CFF-9E9A-D9F3C9E2DD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549619F8-DE5B-4CFF-9E9A-D9F3C9E2DD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549619F8-DE5B-4CFF-9E9A-D9F3C9E2DD53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3692C293-2138-42D3-982E-77E42C069321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3692C293-2138-42D3-982E-77E42C069321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3692C293-2138-42D3-982E-77E42C069321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3692C293-2138-42D3-982E-77E42C069321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8777A963-DECC-4A21-A964-BEDA8AD97049}
+	EndGlobalSection
+EndGlobal

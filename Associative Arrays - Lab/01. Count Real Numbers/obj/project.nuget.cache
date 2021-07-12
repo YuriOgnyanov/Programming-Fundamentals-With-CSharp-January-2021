@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dCkMaFgfb6bPtCrpnll1BxOsr2kQ7kKNxCRZNcFriZQzUe0cLl5Gejmr3h2LtNmp0pPdZQgmJ8eYDDmDvlLdww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yurio\\OneDrive\\Documents\\Visual Studio 2019\\C# Fundamentals\\Associative Arrays - Lab\\01. Count Real Numbers\\01. Count Real Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yurio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yurio\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\yurio\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\yurio\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

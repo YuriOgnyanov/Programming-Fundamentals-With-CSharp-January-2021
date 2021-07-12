@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.genruntimeconfig.cache

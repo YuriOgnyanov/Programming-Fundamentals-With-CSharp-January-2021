@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.genruntimeconfig.cache

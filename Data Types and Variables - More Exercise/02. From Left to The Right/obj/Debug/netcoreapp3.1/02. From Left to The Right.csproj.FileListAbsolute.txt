@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.genruntimeconfig.cache

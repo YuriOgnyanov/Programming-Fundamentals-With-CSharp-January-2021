@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MID EXAM", "MID EXAM\MID EXAM.csproj", "{2EE3F481-77EB-4CCF-B998-F2BD1927F47B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE3F481-77EB-4CCF-B998-F2BD1927F47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE3F481-77EB-4CCF-B998-F2BD1927F47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE3F481-77EB-4CCF-B998-F2BD1927F47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE3F481-77EB-4CCF-B998-F2BD1927F47B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C3A6369-9463-468A-9028-62A9CA988291}
+	EndGlobalSection
+EndGlobal

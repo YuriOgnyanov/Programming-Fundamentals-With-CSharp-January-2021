@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\demo\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.genruntimeconfig.cache

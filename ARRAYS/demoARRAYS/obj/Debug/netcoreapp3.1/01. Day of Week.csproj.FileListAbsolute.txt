@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\01. Day of Week.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\demoARRAYS.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\demoARRAYS.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\demoARRAYS.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\ARRAYS\demoARRAYS\obj\Debug\netcoreapp3.1\demoARRAYS.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp3.1\01. Ranking.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp3.1\01. Ranking.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp3.1\01. Ranking.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp3.1\01. Ranking.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp3.1\01. Ranking.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\netcoreapp3.1\01. Ranking.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp3.1\01. Ranking.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp3.1\01. Ranking.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp3.1\01. Ranking.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp3.1\01. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp3.1\01. Ranking.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp3.1\01. Ranking.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\netcoreapp3.1\01. Ranking.genruntimeconfig.cache

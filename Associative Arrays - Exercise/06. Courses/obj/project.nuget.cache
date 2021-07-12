@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "906N9pZpniVrV+EDVxZOz+qI4asChgyeKj2XSiAZEa6UXHrjl+xVBhK31UiC+6cYbKFIijp5md5vJ6m9W5PCIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yurio\\OneDrive\\Documents\\Visual Studio 2019\\C# Fundamentals\\Associative Arrays - Exercise\\06. Courses\\06. Courses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yurio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yurio\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\yurio\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\yurio\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

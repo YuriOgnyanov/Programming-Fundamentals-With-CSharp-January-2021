@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\Final Exam-RegExr\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.genruntimeconfig.cache

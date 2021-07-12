@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\FinalExam-TextProcesing\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\02. Common Elements.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\02. Common Elements.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\02. Common Elements.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\02. Common Elements.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\02. Common Elements.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.CopyComplete
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\02. Common Elements.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\02. Common Elements.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\02. Common Elements\ARRAYS Exercise\obj\Debug\netcoreapp3.1\02. Common Elements.genruntimeconfig.cache

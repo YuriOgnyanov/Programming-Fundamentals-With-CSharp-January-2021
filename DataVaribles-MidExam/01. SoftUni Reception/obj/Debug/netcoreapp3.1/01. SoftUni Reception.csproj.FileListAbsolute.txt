@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.csprojAssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Fundamentals\DataVaribles-MidExam\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.genruntimeconfig.cache
